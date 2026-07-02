@@ -1,0 +1,155 @@
+{
+  "adminHash": "67a220d481a5a37df36f430433b8c8b4:2270f976e527aa9e31e8b12a85ec663b7d7651e402acb72df3529f876e4a9f5440053eeddb0468f94c4442ac3d8aea8669a3cdda1d579f469e6fe7513edc17ee",
+  "adminEmail": "wavepilot1@gmail.com",
+  "jobs": [
+    {
+      "id": "job_software_eng",
+      "title": "Senior Robotics Software Engineer (Autonomy & ROS)",
+      "qualification": "B.Sc / M.Sc in Computer Science, Robotics, or Computer Engineering",
+      "salary": "USD 5,500 - 7,500 / Month",
+      "country": "Islamabad Corporate HQ",
+      "description": "We are seeking a Senior Robotics Software Engineer to design, implement, and optimize the navigation, control, and autonomy algorithms running on our maritime surface and underwater drone fleets.",
+      "responsibilities": [
+        "Develop and maintain robust state estimation, path planning, and obstacle avoidance algorithms in ROS/ROS2.",
+        "Implement robust communication protocols (Mavlink, UDP, WebSockets) between maritime drones and the cloud-based control center.",
+        "Deploy and profile autonomy algorithms on embedded computing platforms like NVIDIA Jetson and Raspberry Pi."
+      ],
+      "requirements": [
+        "3+ years of professional experience developing software for autonomous robots or unmanned vehicles.",
+        "Proficiency in C++ and Python with a deep understanding of ROS/ROS2 and Linux operating systems.",
+        "Experience with maritime navigation algorithms, Kalman filters, and sensor fusion (GPS, IMU, Sonar)."
+      ],
+      "isOpen": true,
+      "isHidden": false
+    },
+    {
+      "id": "job_research_eng",
+      "title": "Research & Development Engineer (UUV Acoustics)",
+      "qualification": "M.Sc / Ph.D in Acoustics, Marine Engineering, or Robotics",
+      "salary": "USD 6,000 - 8,500 / Month",
+      "country": "Main Research Center, Changzhou",
+      "description": "Join our premium underwater robotics lab to build next-generation Unmanned Underwater Vehicles (UUV) specialized in acoustics mapping and deep-sea exploration.",
+      "responsibilities": [
+        "Design, simulate, and integrate hydrophone arrays and marine sonar systems.",
+        "Develop real-time DSP filters for underwater noise reduction and collision avoidance.",
+        "Lead laboratory and deep-water acoustic trials."
+      ],
+      "requirements": [
+        "Expertise in digital signal processing (DSP) and sonar theory.",
+        "Fluency in C/C++ and MATLAB/Python simulations.",
+        "Experience with ROS (Robot Operating System) and Linux-based marine computers."
+      ],
+      "isOpen": true,
+      "isHidden": false
+    },
+    {
+      "id": "job_drone_pilot",
+      "title": "Autonomous Drone Pilot (USV & Amphibious)",
+      "qualification": "B.Sc / M.Sc in Robotics, Aerospace, or Electrical Engineering",
+      "salary": "USD 4,500 - 6,500 / Month",
+      "country": "Maldives Operations Office",
+      "description": "We are seeking an experienced Drone Pilot to operate, test, and maintain our advanced Autonomous Amphibious Vehicles and Unmanned Surface Vehicles (USV) in active ocean testing programs.",
+      "responsibilities": [
+        "Conduct pre-flight, in-flight, and post-flight inspections of amphibious drones and USVs.",
+        "Coordinate with field engineers to test autopilot systems and manual override switches.",
+        "Maintain precise logs of drone telemetry, ocean state variables, and vehicle anomalies."
+      ],
+      "requirements": [
+        "Commercial Drone Pilot License or equivalent maritime vehicle operation license.",
+        "Strong knowledge of ArduPilot, PX4, or proprietary autonomous navigation suites.",
+        "Willingness to travel and work on remote marine vessels."
+      ],
+      "isOpen": true,
+      "isHidden": false
+    }
+  ],
+  "applications": [],
+  "applicants": [],
+  "payments": [],
+  "documents": [],
+  "settings": {
+    "logoUrl": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=100&h=100&fit=crop&q=80",
+    "faviconUrl": "",
+    "primaryColor": "#009ca6",
+    "accentColor": "#0e7a83",
+    "companyName": "Hydrocean Robotics",
+    "enabledSections": {
+      "hero": true,
+      "about": true,
+      "usv": true,
+      "uuv": true,
+      "research": true,
+      "vacancies": true,
+      "gallery": true,
+      "applySteps": true,
+      "contact": true
+    },
+    "socialLinks": {
+      "facebook": "https://facebook.com",
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    },
+    "companyRegNumber": "SEC-2026-089765",
+    "companyCertNumber": "CERT-65432-PK",
+    "companyRegUrl": "https://secp.gov.pk",
+    "companyLegalName": "Hydrocean Robotics (Private) Limited",
+    "companyRegDesc": "Hydrocean Robotics is officially incorporated and registered under the Companies Act as a technology provider for marine and autonomous subsea exploration systems."
+  },
+  "bankDetails": {
+    "bankName": "",
+    "accountTitle": "",
+    "iban": "",
+    "accountNumber": "",
+    "branchCode": "",
+    "qrCodeUrl": "",
+    "amount": 0,
+    "paymentInstructions": ""
+  },
+  "officeContact": {
+    "address": "Hydrocean Corporate HQ, Tech Sector 4, Islamabad, Pakistan",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3401.56470308!2d119.954!3d31.815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzHCsDQ4JzU0LjAiTiAxMTnCsDU3JzE0LjQiRQ!5e0!3m2!1sen!2s!4v1625000000000",
+    "email": "wavepilot1@gmail.com",
+    "phone": "+92 308 5266384",
+    "whatsApp": "+92 332 5924526",
+    "workingHours": "Monday - Friday (09:00 AM - 05:00 PM PST)"
+  },
+  "logs": [],
+  "users": [],
+  "visits": [],
+  "notifications": [],
+  "contacts": [],
+  "gallery": [],
+  "pendingUsers": [
+    {
+      "id": "pnd_1782908980098_87075b",
+      "email": "raisheraz7181@gmail.com",
+      "passwordHash": "$2b$10$fMb9DNokTZdF623O1Q9Ntuds2RcNV3d3mkWg3Jpe1lBEAITs5Yxdy",
+      "fullName": "Rai Sheraz",
+      "otp": "430996",
+      "otpExpires": "2026-07-01T12:39:40.098Z",
+      "createdAt": "2026-07-01T12:29:40.098Z",
+      "updatedAt": "2026-07-01T12:29:40.098Z"
+    },
+    {
+      "id": "pnd_1782909002484_ff4b0b",
+      "email": "sherazofficialdev@gmail.com",
+      "passwordHash": "$2b$10$gVoAaXCT66h95Lxyyu/tve3rx1Hi0X95QdK9ul.MMDC3IUGDRq.xy",
+      "fullName": "sheraz developer",
+      "otp": "556638",
+      "otpExpires": "2026-07-01T12:40:02.484Z",
+      "createdAt": "2026-07-01T12:30:02.484Z",
+      "updatedAt": "2026-07-01T12:30:02.484Z"
+    },
+    {
+      "id": "pnd_1782976166442_643af3",
+      "email": "test@example.com",
+      "passwordHash": "$2b$10$NJ7jaQ1S1ZCpiGzm6ubwVuprCJhp8t/7Gd6FGSLy3SjVvbX7ckFiO",
+      "fullName": "Test User",
+      "otp": "908418",
+      "otpExpires": "2026-07-02T07:19:26.442Z",
+      "createdAt": "2026-07-02T07:09:26.442Z",
+      "updatedAt": "2026-07-02T07:09:26.442Z"
+    }
+  ]
+}

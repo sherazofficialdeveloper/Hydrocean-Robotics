@@ -1,0 +1,6 @@
+{
+  "name": "Hydrocean Recruitment",
+  "description": "Single-page corporate recruitment website and admin panel for Hydrocean unmanned surface and underwater vehicle robotics programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
